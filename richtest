@@ -1,0 +1,11 @@
+[web]
+
+#node-1 ansible_host=128.115.142.148
+#node-2 ansible_host=128.115.142.147
+node-1 ansible_host=puppetprod0001
+node-2 ansible_host=mcoprod0001
+
+
+[all:vars]
+ansible_user=vagrant
+ansible_ssh_private_key_file=/Users/houck2/.ssh/id_rsa.pub

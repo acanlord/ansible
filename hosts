@@ -1,0 +1,17 @@
+[webservers]
+richdev0001
+
+[dbservers]
+dbpisb0001
+
+[testservers]
+itlinsb0001
+itlinsb0002
+
+[puppet]
+puppetprod0002
+
+
+[rundeck]
+mcoprod0001
+
